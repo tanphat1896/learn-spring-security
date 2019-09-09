@@ -1,4 +1,4 @@
-package com.example.researchanything.data
+package com.example.researchanything.security
 
 import com.example.researchanything.entity.User
 import org.springframework.security.core.GrantedAuthority
