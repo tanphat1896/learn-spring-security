@@ -1,4 +1,4 @@
-package com.example.researchanything
+package com.example.springsecuritykotlin
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

@@ -1,4 +1,4 @@
-package com.example.researchanything
+package com.example.springsecuritykotlin
 
 import org.junit.Test
 import org.junit.runner.RunWith
