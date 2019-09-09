@@ -1,0 +1,1 @@
+insert into users(id, username, password, name) values(1, 'nphat', '$2a$10$AwMwTPBJq9yCnLtI4VxF9eusXG3xqaYyKRt9VN/cnh6Sh6hJ267M6', 'Phat NT')
